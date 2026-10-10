@@ -1,1 +1,1 @@
-console.log("Welcome to the Git Course");
+console.log("Welcome to the Git Course");   
